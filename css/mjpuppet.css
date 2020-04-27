@@ -1,0 +1,186 @@
+header{
+		text-align: center;
+		background-color: #ffffff;
+		background-image: url("mjheader.jpg");
+		background-repeat: no-repeat;
+		background-size: 1000px;
+		height: 200px;
+		border-radius: 10px;
+	}
+
+.active{background: #01d2f7;
+		background-image: linear-gradient(#ffffff, #01d2f7);
+}
+
+body{background-color: #feffbb;
+background-image: linear-gradient(to right, #feffbb , #feff67); }
+
+h1, h2{color: #0167A5;}
+
+nav a{
+
+	color: #0167A5;
+	background-image: linear-gradient(#0167A588, #ffffff);
+	text-decoration: none;
+	display: inline-block;
+	font-weight: bold;
+	background-color: #ffffff88;
+	text-align: center;
+	line-height: 30px;
+	width: 15%;
+	height: 30px;
+	border: 2px solid #c5c7c5;
+	border-radius: 12px;
+	margin-top: 160px;
+}
+a:hover{
+		background-color: #feffbb;
+		color: #b3b3b3;}
+
+a:focu{
+		background-color: #0006cc;
+		color: #ff6767; 
+	}
+
+
+.right{
+		display: block;
+		width: 30%;
+		top: 310px;
+		position: absolute;
+		right: 20px;
+		border: 2px solid black;
+		border-radius: 10px;
+		padding: 5px;
+		margin: 20px;
+	}
+	section{ margin: 20px;
+		font-size: 110%;
+
+
+	}
+aside{
+		display: block;
+		width: 60%;
+		margin-left: 20px;
+		font-size: 110%
+	}
+
+footer {
+	clear: both;
+
+}
+
+
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 60%;
+  border-radius: 10px;
+}
+
+.photo{ width: 200px;
+		height: 200px; 
+		margin: 10px;
+		object-fit: cover;
+		border-radius: 5px;
+		box-shadow: 5px 5px 10px grey;
+}
+
+.photo1{
+		width: 200px;
+		height:300px;
+		border-radius: 5px;
+		box-shadow: 5px 5px 10px grey;
+
+
+
+}
+
+.photo1:hover {transform: scale(2.5);		
+				transition-delay: 1s;
+				transition-duration: 0.5s; 
+
+
+}
+
+.photo:hover  { transform: scale(2.5);		
+				transition-delay: 1s;
+				transition-duration: 0.5s; 
+}
+
+.photo2{ width: 240px;
+			height: 200px;
+			object-fit: cover;
+			border-radius: 5px; 
+			box-shadow: 5px 5px 10px grey;
+}
+
+.photo2:hover  { transform: scale(2.5);		
+				transition-delay: 1s;
+				transition-duration: 0.5s; 
+}
+
+
+.allphotos{
+	width: 95%;
+	height: 95%;
+	margin: 5%;
+}
+
+
+
+.index{ width:  450px;
+		float: left; 
+		margin: 40px;
+		}
+
+.homepage{ 
+			margin: 30px;
+			font-size: 130%;
+			}
+
+.newspaper{
+	margin-top: 20px;
+	margin-left: 5%;
+width: 90%;
+}
+
+
+
+.contact{
+	margin-top: 15px;
+	margin-left: 30%;
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 40px;
+	border: 1px solid black;
+	height: 300px;
+	width:500px;
+	border-radius: 10px;
+	background-color: #ffffff88
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
